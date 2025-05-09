@@ -2,7 +2,7 @@
 
 <p align="center"><br>
   <samp>
-    「 Artificial Intelligence @ <b>Machine Learning</b> 」<br>
+    「 Artificial Intelligence & <b>Machine Learning</b> 」<br>
     AI/ML Engineer | Data Scientist | Deep Learning   
   </samp>
 </p>
