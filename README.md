@@ -25,6 +25,7 @@
   <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
   <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/-HuggingFace-FFBF00?style=flat-square&logo=huggingface&logoColor=black"></a>
   <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kevinjycui&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
 
   <!-- Links & Stats -->
   <p>
