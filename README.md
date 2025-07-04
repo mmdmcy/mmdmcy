@@ -25,14 +25,4 @@
   <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
   <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/-HuggingFace-FFBF00?style=flat-square&logo=huggingface&logoColor=black"></a>
   <br><br>
-
-  <!-- Links & Stats -->
-  <p>
-    <a href="https://github.com/mmdmcy?tab=followers" target="_blank">
-      <img alt="Followers" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white">
-    </a>
-    <a href="https://github.com/mmdmcy/mmdmcy" target="_blank">
-      <img alt="Profile Updated" src="https://img.shields.io/github/last-commit/mmdmcy/mmdmcy?label=profile%20updated&style=flat-square">
-    </a>
-  </p>
 </div>
