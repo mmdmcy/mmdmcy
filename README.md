@@ -31,9 +31,6 @@
     <a href="https://github.com/mmdmcy?tab=followers" target="_blank">
       <img alt="Followers" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white">
     </a>
-    <a href="https://github.com/mmdmcy" target="_blank">
-      <img alt="Visits" src="https://badges.pufler.dev/visits/mmdmcy/mmdmcy?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square">
-    </a>
     <a href="https://github.com/mmdmcy/mmdmcy" target="_blank">
       <img alt="Profile Updated" src="https://img.shields.io/github/last-commit/mmdmcy/mmdmcy?label=profile%20updated&style=flat-square">
     </a>
