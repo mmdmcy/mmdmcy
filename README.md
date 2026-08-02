@@ -44,6 +44,7 @@ A categorized overview of my public GitHub projects.
 - 📊 [websmaLLMs](https://github.com/mmdmcy/websmaLLMs) — Web companion for publishing smaLLMs benchmark sessions and leaderboards.
 - 🧪 [Queloucura](https://github.com/mmdmcy/queloucura) — Lab for studying productivity-chat harness behavior and model failure modes.
 - 🧰 [myskills](https://github.com/mmdmcy/myskills) — Open-source Codex skills for durable project workflows.
+- 📶 [fluttAIrbar](https://github.com/mmdmcy/fluttAIrbar) — Cross-platform system-tray usage meters for Codex/ChatGPT and Cursor, reusing local auth.
 
 ### Developer tools & runtimes
 
@@ -52,6 +53,7 @@ A categorized overview of my public GitHub projects.
 - 🔄 [GitDCY](https://github.com/mmdmcy/gitdcy) — Native multi-device Git workspace sync client with conservative safety rules.
 - 🦀 [KatRust](https://github.com/mmdmcy/katrust) — Structural tooling that keeps Rust projects navigable without adding a runtime framework.
 - ✏️ [mmidecy](https://github.com/mmdmcy/mmidecy) — Lightweight native Rust IDE for editing, running, and inspecting project files.
+- 🔎 [LoopLens](https://github.com/mmdmcy/LoopLens) — Interactive, zero-dependency code-execution visualizer for beginners.
 - ⌨️ [PortUI](https://github.com/mmdmcy/portui) — Zero-dependency, cross-platform terminal runtime for project-local TUIs.
 - 🔧 [Forgejui](https://github.com/mmdmcy/forgejui) — Small desktop client for straightforward local Forgejo workflows.
 - 📄 [ImpactDown](https://github.com/mmdmcy/impactdown) — Local-only PDF-to-Markdown converter with a deliberately small Python surface.
@@ -61,12 +63,15 @@ A categorized overview of my public GitHub projects.
 - 🎮 [Clawparty](https://github.com/mmdmcy/clawenheimer) — Touch-first browser party game with six arcade minigames.
 - ✅ [CheckSHA](https://github.com/mmdmcy/checksha) — Offline ISO checksum verifier for Windows, Linux, macOS, browsers, and Python.
 - 🎨 [Daublet](https://github.com/mmdmcy/daublet) — Lightweight, zero-dependency local paint app with movable layers.
+- 📦 [DirSquat](https://github.com/mmdmcy/dirsquat) — Fast WinDirStat-style disk-space treemap visualizer in portable Rust + egui.
+- 🎞️ [gif-snip](https://github.com/mmdmcy/gif-snip) — Region GIF recorder for Linux X11 desktops.
 - 📷 [Laptop Camera](https://github.com/mmdmcy/laptop-camera) — Tiny native GTK4 and GStreamer camera preview for Linux.
 - 🗂️ [Local App Center](https://github.com/mmdmcy/local-app-center) — Opt-in GTK4 dashboard for launching explicitly registered local apps.
 - 📐 [OveRusTeX](https://github.com/mmdmcy/OveRusTeX) — Fast Rust desktop LaTeX editor with an explorer, editor, build flow, and PDF preview.
 - ✂️ [Page Instrumentality](https://github.com/mmdmcy/page-instrumentality) — Visual desktop tool for selecting and combining PDF pages.
 - 🔐 [Paswo](https://github.com/mmdmcy/paswo) — Offline personal password manager with a Tkinter desktop interface.
 - 🛰️ [RustOp Viewer](https://github.com/mmdmcy/rustopviewer) — Rust remote desktop host and browser controller for Linux and Windows.
+- 📸 [screenshot-snip](https://github.com/mmdmcy/screenshot-snip) — Region screenshot tool for Linux X11 desktops.
 
 ### Engineering, analytics & simulation
 
@@ -76,6 +81,7 @@ A categorized overview of my public GitHub projects.
 - 🧩 [Software Update System](https://github.com/mmdmcy/Software-Update-System) — Framework for targeted, non-disruptive updates across interconnected processes.
 - 🔍 [Superset Analytics](https://github.com/mmdmcy/Superset-Analytics) — Reusable analytics data layer and deployable Apache Superset dashboards.
 - 🏭 [System Dynamics Simulator](https://github.com/mmdmcy/System-Dynamics-Simulator) — Real-time manufacturing-system visualization and monitoring dashboard.
+- 🔬 [Retinaforge](https://github.com/mmdmcy/retinaforge) — MacBookPro11,3 workbench notes for Big Sur, Linux AHCI latency, and graphics paths.
 
 ### Web projects
 
@@ -88,6 +94,8 @@ A categorized overview of my public GitHub projects.
 - 🌱 [Plugroot](https://github.com/mmdmcy/plugroot) — Manifest-driven control center for operating a small private server.
 - 🗃️ [Plugdeck](https://github.com/mmdmcy/plugdeck) — Retired private-first self-hosted toolbox, preserved for history and migration reference.
 - 🌉 [RelayQuay](https://github.com/mmdmcy/RelayQuay) — Loopback gateway and deployment kit for protected private remote-access services.
+- 🐚 [Russht Viewer](https://github.com/mmdmcy/russhtviewer) — Token-authenticated multi-device shell access for private Tailscale fleets.
+- 🫧 [FrameRinse](https://github.com/mmdmcy/framerinse) — Self-hosted plain-HTTP photo cleaner for iPhone LAN uploads.
 - 🎬 [YTDLP Web](https://github.com/mmdmcy/ytdlp-web) — Private Rust web queue for downloading videos through `yt-dlp`.
 
 ### Forks & adaptations
